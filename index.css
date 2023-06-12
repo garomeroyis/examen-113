@@ -1,0 +1,91 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+.banner {
+   background-image: url("../img/tms.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   width: 10vh;
+   height: 40vh;
+}
+.letra{
+    color: white;
+    margin: 2cm;
+    font-family: sans-serif;
+    margin:1cm ;
+    position: absolute; 
+    top: 60%; 
+    left: 5%; 
+}
+.imaged{
+    margin:1cm ;
+    position: absolute; 
+    top: 2%; 
+    left: 2%; 
+}
+.princi{
+    background-image: url("../img/tms.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   position: absolute; 
+    top: 2%; 
+    left: 50%; 
+   color: white;
+   letter-spacing: 10px;
+   
+}
+.logoletras{
+    margin:1cm ;
+    position: absolute; 
+    top: 15%; 
+    left: 5%; 
+
+}
+.letrau{
+    color: rgb(117, 115, 115);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+}
+.boton:hover {
+    background-color: #ff0000; 
+    
+  }
+  .boton {
+    background-color: #e01919; 
+   
+  }
+  .botond{
+    position: absolute; 
+    top: 80%; 
+    left: 11%; 
+    width: 100px;
+
+  }
+  .botondS{
+    position: absolute;
+    top: 80%; 
+    left: 20%; 
+
+    
+}
+.BOTONS:hover {
+    background-color: #696969; 
+    
+  }
+  .BOTONS {
+    background-color: #3b3737;
+    
+  }
+  .BOTONS{
+    position: absolute; 
+    top: 80%; 
+    left: 11%; 
+    width: 100px;}
